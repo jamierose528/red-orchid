@@ -47,7 +47,11 @@ React, CSS, JS, GitHub, Trello, Bootstrap
 
 ## Questions
  If you have any questions regarding this app, please contact us directly at: 
+ <br/>
  Annie --- anguyen.aln@gmail.com
+ <br/>
  Jamie --- jamie.rose.528@gmail.com
+ <br/>
  Jennifer --- thishereisjenn@gmail.com
+ <br/>
  Elmira --- elmira.tashvighi@gmail.com
