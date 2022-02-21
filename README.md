@@ -22,10 +22,17 @@ Clone the repo, navigate to the root folder, run the following command in your t
 npm run seed and npm run develop
 
 ## Contributors
-Jennifer Lee, Jamie Chu, Elmira Tashvighi, Annie Nguyen 
+Jennifer Lee
+<br/>
+Jamie Chu
+<br/>
+Elmira Tashvighi
+<br/>
+Annie Nguyen 
 
 ## Deployed Link and Screenshots
 https://red-orchid.herokuapp.com/
+<br/>
 https://github.com/JLee3883/red-orchid
 
 ![LoginPage](client/src/images/login.png)
